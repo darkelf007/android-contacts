@@ -21,4 +21,3 @@ import androidx.recyclerview.widget.DiffUtil;
             return newItem;
         }
     }
-
